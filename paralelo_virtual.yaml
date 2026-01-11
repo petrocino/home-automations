@@ -1,3 +1,10 @@
+# Paralelo virtual para Home Assistant
+# Adicione quantos devices/entities quiser, e todas responderão como um único interruptor
+# Identifica state
+#
+# Author: Alessandro Petrocino
+# Date: 2026-01-11
+#
 blueprint:
   name: Paralelo Virtual
   description: Acende/Apaga todos os switchs/lights do grupo simultaneamente
